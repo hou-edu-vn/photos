@@ -1,3 +1,4 @@
+tuongnd comment
 <?php $mts_options = get_option(MTS_THEME_NAME); ?>
 <?php get_header(); ?>
 <div id="page">
